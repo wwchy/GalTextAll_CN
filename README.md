@@ -18,6 +18,8 @@
 Monkeys! \ Monkeys! 体验版  
 俺の姿が、透明に!? 不可視の薬と数奇な運命 \ 不可视之药与坎坷的命运  
 ラズベリーキューブ \ 树莓立方体  
+終ノ空 remake \ 终之空Remake  
+顔のない月DVD-RENEWAL \ 无颜之月  
 
 # 恶心人名单
 空種 AyamiKaze  
