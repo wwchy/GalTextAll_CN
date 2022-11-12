@@ -20,6 +20,8 @@ Monkeys! \ Monkeys! 体验版
 ラズベリーキューブ \ 树莓立方体  
 終ノ空 remake \ 终之空Remake  
 顔のない月DVD-RENEWAL \ 无颜之月  
+羊の方舟 \ 羊之方舟  
+夢幻廻廊 \ 梦幻廻廊  
 
 # 恶心人名单
 空種 AyamiKaze  
