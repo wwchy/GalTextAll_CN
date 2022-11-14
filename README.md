@@ -22,6 +22,7 @@ Monkeys! \ Monkeys! 体验版
 顔のない月DVD-RENEWAL \ 无颜之月  
 羊の方舟 \ 羊之方舟  
 夢幻廻廊 \ 梦幻廻廊  
+放課後シンデレラ ミニファンディスク FD \ 放学后的灰姑娘 FD  
 
 # 恶心人名单
 空種 AyamiKaze  
