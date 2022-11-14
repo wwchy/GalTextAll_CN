@@ -1,7 +1,0 @@
-
-QUERY
-D_YES
-ID_NO
-ID_NO
-se001
-

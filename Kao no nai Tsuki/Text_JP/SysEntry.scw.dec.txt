@@ -1,3 +1,0 @@
-SysInitLayer
-SysInitParam
-Main

@@ -1,6 +1,0 @@
-SysProfileBG2
-SysParam_char_07
-SysParam_name_07
-SysParam_Str_07_01
-SysParam_Str_07_00
-SSE002

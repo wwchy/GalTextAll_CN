@@ -1,4 +1,0 @@
-SysInitGame
-BS_a
-BS_b
-Main
