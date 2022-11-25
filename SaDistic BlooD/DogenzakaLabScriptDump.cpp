@@ -34,7 +34,7 @@ int main()
 			std::string str;
 			for (size_t iteString = 0; iteString < StringCount; iteString++)
 			{
-				std::string str = (char*)&pxScript[pxScript[offsetStringOffsetTable + iteString]];
+				str = (char*)&pxScript[pxScript[offsetStringOffsetTable + iteString]];
 				oFile << str << '\n';
 			}
 		}
