@@ -1,0 +1,6 @@
+
+
+//Override some files
+Storages.addAutoPath(System.exePath + "video_ch/");
+
+Scripts.execStorage("overridenew.tjs");
